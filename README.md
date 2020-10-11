@@ -1,4 +1,4 @@
-# Autoplius ads scrapper
+# Autoplius ads scraper
 
 ### Implemented tasks:
 - [X] URL's gathering from autoplius sitemap
@@ -9,7 +9,7 @@
 
 ### Tasks to do:
 - [] Create virtual environment for easier necessary package installation
-- [] Merge new ads links with scrapped url's list
+- [] Merge new ads links with scraped url's list
 - [] Improve automatic Captcha solver by not hardacoding crop values(if Selenium window is at different size, captcha is not properly cropped)
 - [] Make it faster by implementing Asynchronous requests
 
